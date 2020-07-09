@@ -1,5 +1,5 @@
 # hmsheets
 - Created repository as username
-- edieted readme
+- edited readme
 - ???
 - Profit
